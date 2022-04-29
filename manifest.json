@@ -27,12 +27,12 @@
    ],
    "description":[
       {
-         "@value":"[Click to edit description]",
+         "@value":"",
          "@language":"en"
       }
    ],
    "license":"https://creativecommons.org/licenses/by/3.0/",
-   "attribution":"[Click to edit attribution]",
+   "attribution":"",
    "sequences":[
       {
          "@id":"http://21fb1a4b-43a1-4f54-8d30-93bfc783a8ea",
