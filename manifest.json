@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"http://9a2e9e97-9e6a-4d4c-8371-761b464b3e9c",
+   "@id":"https://raw.githubusercontent.com/rachelealba96/vicesandvirtuesofgiotto.github.io/master/manifest.json",
    "@type":"sc:Manifest",
    "label":"VICES AND VIRTUES",
    "metadata":[
