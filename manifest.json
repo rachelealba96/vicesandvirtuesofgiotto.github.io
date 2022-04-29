@@ -2,7 +2,7 @@
    "@context":"http://iiif.io/api/presentation/2/context.json",
    "@id":"http://9a2e9e97-9e6a-4d4c-8371-761b464b3e9c",
    "@type":"sc:Manifest",
-   "label":"[Click to edit label]",
+   "label":"VICES AND VIRTUES",
    "metadata":[
       {
          "label":"Artist",
