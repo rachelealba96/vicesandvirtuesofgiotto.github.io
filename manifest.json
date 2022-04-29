@@ -22,7 +22,7 @@
       },
       {
          "label":"Location",
-         "value":"<a href="http://www.cappelladegliscrovegni.it/index.php/en/la-cappella-di-giotto"></a>"
+         "value":"Cappella Degli Scrovegni"
       }
    ],
    "description":[
@@ -770,8 +770,8 @@
                      "on":"http://c660b72e-06fd-4282-9a49-830a54a0e7c3"
                   }
                ],
-               "license":"https://rachelealba96.github.io/vicesandvirtuesofgiotto.github.io/index.html",
-               "related":"https://raw.githubusercontent.com/rachelealba96/vicesandvirtuesofgiotto.github.io/master/manifest.json"
+               "license": "https://rachelealba96.github.io/vicesandvirtuesofgiotto.github.io/index.html",
+               "related": "https://raw.githubusercontent.com/rachelealba96/vicesandvirtuesofgiotto.github.io/master/manifest.json"
             }
          ]
       }
